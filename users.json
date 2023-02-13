@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "636aabe05376b63518a94265"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1667931353585"
+    }
+  },
+  "fullname": "Chiêm Thị Thu Cúc",
+  "email": "cuc@gmail.com",
+  "phone": "0823456786",
+  "address": "An Giang",
+  "gender": "Nữ",
+  "image": "image_1668823817301_avatar10.jpg",
+  "__v": 0,
+  "position": "Quản lý"
+},{
+  "_id": {
+    "$oid": "63783bb434afbe19942b2bef"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1668823557102"
+    }
+  },
+  "fullname": "Nguyễn Thanh Trúc",
+  "email": "thanhtruc@gmail.com",
+  "phone": "0756289102",
+  "address": "Hậu Giang",
+  "gender": "Nữ",
+  "position": "Nhân viên thu ngân",
+  "image": "image_1668823988618_images (2).jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63783c1634afbe19942b2bf0"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1668823557102"
+    }
+  },
+  "fullname": "Trần Thanh Tuấn",
+  "email": "tuan@gmail.com",
+  "phone": "0896254025",
+  "address": "Cà Mau",
+  "gender": "Nam",
+  "position": "Nhân viên phục vụ",
+  "image": "image_1668824086184_images (1).jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63783c7034afbe19942b2bf2"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1668823557102"
+    }
+  },
+  "fullname": "Lê Thị Thư",
+  "email": "thule@gmail.com",
+  "phone": "0758621245",
+  "address": "An Giang",
+  "gender": "Nữ",
+  "position": "Nhân viên phục vụ",
+  "image": "image_1668841653425_images (2).jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63783cb034afbe19942b2bf3"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1668823557102"
+    }
+  },
+  "fullname": "Dương Tuấn Anh",
+  "email": "anh@gmail.com",
+  "phone": "0987426421",
+  "address": "Cần Thơ",
+  "gender": "Nam",
+  "position": "Bảo vệ",
+  "image": "image_1668824240137_images.jpg",
+  "__v": 0
+}]

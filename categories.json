@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "636b3919ba258d1a4c621d75"
+  },
+  "name": "Trà trái cây ",
+  "description": "Nguyên liệu tươi mới mỗi ngày",
+  "products": [],
+  "created": {
+    "$date": {
+      "$numberLong": "1667969084538"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6372256f52d03b473419f82f"
+  },
+  "name": "Cà phê",
+  "description": "Nguyên liệu có thương hiệu đảm bảo chất lượng",
+  "products": [],
+  "created": {
+    "$date": {
+      "$numberLong": "1668416135708"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6378793b34afbe19942b2bfd"
+  },
+  "name": "Trà sữa",
+  "description": "Nguyên liệu có thương hiệu đảm bảo chất lượng",
+  "products": [],
+  "created": {
+    "$date": {
+      "$numberLong": "1668823557108"
+    }
+  },
+  "__v": 0
+}]

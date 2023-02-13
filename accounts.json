@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "63733f92e21bca398847edad"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1668497272449"
+    }
+  },
+  "fullname": "chiêm thị thu cúc",
+  "email": "cuc@gmail.com",
+  "password": "cuc123",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63746d64984ecc42103998a0"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1668574442749"
+    }
+  },
+  "email": "nhuy@gmail.com",
+  "password": "nhuy123",
+  "fullname": "nguyễn thị như ý",
+  "__v": 0
+}]

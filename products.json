@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "636a92239a912813d0994e85"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1667928472623"
+    }
+  },
+  "price": 28000,
+  "category": {
+    "$oid": "6372256f52d03b473419f82f"
+  },
+  "description": "Cà phê, sữa tươi, sữa đặc.",
+  "name": "Bạc xĩu ",
+  "image": "bac-xiu-2-105200.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a92419a912813d0994e86"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1667928472623"
+    }
+  },
+  "price": 27000,
+  "category": {
+    "$oid": "6372256f52d03b473419f82f"
+  },
+  "description": "Cà phê, sữa đặc, đường.",
+  "name": "Cà phê sữa",
+  "image": "images.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a949e39df616398ee4a9a"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1667929220446"
+    }
+  },
+  "name": "Trà vải lài",
+  "category": {
+    "$oid": "636b3919ba258d1a4c621d75"
+  },
+  "description": "Trà, vải tươi hoặc đóng hộp, hương lài, đường.",
+  "price": 28000,
+  "active": 1,
+  "image": "travai.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a94c539df616398ee4a9b"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1667929220446"
+    }
+  },
+  "name": "Trà vải",
+  "category": {
+    "$oid": "636b3919ba258d1a4c621d75"
+  },
+  "description": "Trà, vải tươi hoặc đóng hộp, đường.",
+  "price": 28000,
+  "active": 1,
+  "image": "tra-vai_5da7600555ff48d6825a71b396cecd7a_master.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a94d539df616398ee4a9c"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1667929220446"
+    }
+  },
+  "name": "Trà đào",
+  "category": {
+    "$oid": "636b3919ba258d1a4c621d75"
+  },
+  "description": "Trà, đào tươi hoặc đóng hộp, đường.",
+  "price": 28000,
+  "active": 1,
+  "image": "tra-dao-cam-xa_668678_23f64243ce3a468c90ccd86fbcb79434_master.webp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "637879cb34afbe19942b2bfe"
+  },
+  "created": {
+    "$date": {
+      "$numberLong": "1668823557054"
+    }
+  },
+  "price": 32000,
+  "category": {
+    "$oid": "6378793b34afbe19942b2bfd"
+  },
+  "description": "Trà, sữa tươi, sữa đặc, bột matcha",
+  "name": "Trà sữa thái xanh",
+  "image": "image_1668839883565_bfeea56c299a3339f669872ec3f9f97e.jpg",
+  "__v": 0
+}]
